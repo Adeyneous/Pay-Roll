@@ -1,0 +1,13 @@
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.AssemblyReference.cache
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.FrmNailShop.resources
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.cache
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.CoreCompileInputs.cache
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+C:\Users\Elidi\OneDrive\Desktop\Adeyneous Kpoto\.Net\PayRoll\PayRoll\obj\Debug\PayRoll.frmAdmin.resources
